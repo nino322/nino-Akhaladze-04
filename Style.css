@@ -1,0 +1,41 @@
+body
+{
+    margin: 0;
+    padding: 0;
+ 
+}
+ul
+{
+    display:flex;
+    list-style-type: none;
+    gap: 25px;
+}
+nav
+{
+    background-image: url(./Assets/HTML.8.png);
+    height: 400px;
+}
+content
+{
+    list-style:none;
+}
+
+.row
+{
+   display:flex;
+   gap:25px;
+}
+/*3photo*/
+h1
+{
+    text-align: center;
+    color: rgb(175, 110, 25);
+}
+
+/*about*/
+.conteiner
+{
+    display:flex;
+    gap: 25px;
+}
+/*about and*/
